@@ -1,0 +1,27 @@
+.sketchBoard{
+    background-color:black;
+    margin: 1px;
+    padding: 2px;
+    border: 1px;
+}
+
+.smallSquare{
+    background-color: purple;
+    margin: 1px;
+    padding: 1px;
+}
+
+.mainDiv{
+    background-color: red;
+    display: flex;
+}
+
+.sketchNorm {
+    padding: 1pxs;
+}
+
+.sketchEffect{
+    background-color: black;
+    padding: 1px;
+    margin: 1px;
+}
